@@ -1,4 +1,4 @@
-/* globals */
+/* global styles */
 
 .colourDarkGrey {
   color: #444;
@@ -37,7 +37,7 @@
   padding: 10px;
 }
 
-/* Breadcrumbs */
+/* Breadcrumbs styles*/
 
 .breadcrumb {
   display: inline-block;
@@ -64,7 +64,7 @@
   color: #555
 }
 
-/* Layout */
+/* Layout styles*/
 
 .content {
   overflow-y: auto;
@@ -82,7 +82,7 @@
   height: 20px;
 }
 
-/* Search */
+/* Search styles */
 
 .fcc_searchBar {
   width: 100%;
@@ -100,7 +100,7 @@
   }
 }
 
-/* NavBar */
+/* NavBar styles */
 
 .navBar {
   background: #006400;
@@ -137,7 +137,7 @@
   }
 }
 
-/* Navbar logo */
+/* Navbar logo styles */
 
 .logo-glyph {
   height: 30px;
@@ -185,7 +185,7 @@
   }
 }
 
-/* 404 */
+/* 404 styles*/
 
 .flexWrapper {
   align-items: center;
@@ -215,7 +215,7 @@
   border-color: #fff;
 }
 
-/* SideNav */
+/* SideNav styles*/
 
 .body {
   overflow-y: hidden;
